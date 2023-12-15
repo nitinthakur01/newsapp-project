@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 4493,
+    "articles": [
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Cricket-White-ball juggernaut England redefining test cricket too - Reuters",
+        "description": "England won the T20 World Cup in Australia to firmly establish themselves as the best white-ball team of the era and set out to revolutionise test cricket with an equally bold approach to the longest format of the game.",
+        "url": "https://www.reuters.com/lifestyle/sports/cricket-white-ball-juggernaut-england-redefining-test-cricket-too-2022-12-15/",
+        "urlToImage": "https://www.reuters.com/resizer/b2SFc_FjT2uhfk4K4Jv3t2niGV4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/542H5CEWGNJYZOCYFLKP2OEBGU.jpg",
+        "publishedAt": "2022-12-15T02:08:00Z",
+        "content": "NEW DELHI, Dec 15 (Reuters) - England won the T20 World Cup in Australia to firmly establish themselves as the best white-ball team of the era and set out to revolutionise test cricket with an equall… [+3512 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "ICC rates Gabba pitch 'below average' after two-day test - Reuters",
+        "description": "Brisbane's Gabba cricket ground has received one demerit point after the International Cricket Council (ICC) on Tuesday rated the pitch for the first test between Australia and South Africa - which ended in two days - \"below average\".",
+        "url": "https://www.reuters.com/lifestyle/sports/icc-rates-gabba-pitch-below-average-after-two-day-test-2022-12-20/",
+        "urlToImage": "https://www.reuters.com/resizer/LNrUWKtCTpiWf4lisPcZHfd822w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LHSND5F72NPM5AHYWOWMNUU444.jpg",
+        "publishedAt": "2022-12-20T10:59:00Z",
+        "content": "Dec 20 (Reuters) - Brisbane's Gabba cricket ground has received one demerit point after the International Cricket Council (ICC) on Tuesday rated the pitch for the first test between Australia and Sou… [+1027 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Gary Naylor",
+        "title": "Three memories of cricket in 2022",
+        "description": "Following on from reviews of 2014, 2015, 2016, 2017, 2018, 2019, 2020 and 2021 here are a few more moments to savourBy Gary Naylor for the 99.94 Cricket BlogIn those long-ago times when England captains wouldn’t chase 273 off 75 overs for fear of defeat and t…",
+        "url": "https://www.theguardian.com/sport/99-94-cricket-blog/2022/dec/31/three-memories-of-cricket-in-2022",
+        "urlToImage": "https://i.guim.co.uk/img/media/bd432639b772325196bc9e305d5d00907f55c038/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=27c6612a4fb05a70b407787c6754576d",
+        "publishedAt": "2022-12-31T08:00:13Z",
+        "content": "1) Liam Norwell bears up under pressure for Warwickshire\r\nIn those long-ago times when England captains wouldnt chase 273 off 75 overs for fear of defeat and the Australian pacers cowed English batte… [+5802 chars]"
+      }
+    ]
+  }
